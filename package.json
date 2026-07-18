@@ -18,8 +18,11 @@
     "prettier": "^3.9.5"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^9.7.4"
+    "mongoose": "^9.7.4",
+    "mongoose-aggregate-paginate-v2": "^1.1.4"
   }
 }
